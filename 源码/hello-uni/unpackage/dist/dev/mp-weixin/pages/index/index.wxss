@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 箭头图片 */
+.right{
+	width:40px;
+	height:40px;
+	margin-left: 70px;
+}
+/* 字体 */
+.my_view_position{
+	font-size: 20px;
+	margin-left: 100rpx;
+}
+/* 模块 */
+.my_view_text{
+	margin: 100px;
+	width: 96%;
+	height: 29vw;
+	background-color: #fefefe;
+	border-radius: 24rpx;
+	box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.15);
+	margin: 40rpx 2% 0rpx 2%;
+	display: flex;
+	align-items: center;
+}
+/* 轮播图 */
+.logo {
+	width: 100%;
+	margin: 2rpx 0;
+	text-align: center;
+}
+/* 图标 */
+.avatar{
+	width: 90px;
+	height: 90px;
+	z-index: 9;
+	margin-left: 50rpx;
+}
+.swiper {
+	height: 500rpx;
+}
+

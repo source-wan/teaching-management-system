@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\bin\Debug\net6.0\EMS.Infrastructure.deps.json
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\bin\Debug\net6.0\EMS.Infrastructure.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\bin\Debug\net6.0\EMS.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\bin\Debug\net6.0\EMS.App.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\bin\Debug\net6.0\EMS.Domain.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\bin\Debug\net6.0\EMS.App.pdb
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\bin\Debug\net6.0\EMS.Domain.pdb
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\refint\EMS.Infrastructure.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\EMS.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Infrastructure\obj\Debug\net6.0\ref\EMS.Infrastructure.dll

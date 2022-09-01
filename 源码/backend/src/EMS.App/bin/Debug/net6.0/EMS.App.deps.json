@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EMS.App/1.0.0": {
+        "dependencies": {
+          "EMS.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EMS.App.dll": {}
+        }
+      },
+      "EMS.Domain/1.0.0": {
+        "runtime": {
+          "EMS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMS.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

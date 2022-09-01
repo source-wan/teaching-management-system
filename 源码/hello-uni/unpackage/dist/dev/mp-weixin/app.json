@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/message/message",
+    "pages/works/works",
+    "pages/details/details",
+    "pages/people/people",
+    "pages/about/about ",
+    "pages/score/score",
+    "pages/question/question",
+    "pages/detailss/detailss",
+    "pages/detailsss/detailsss"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "教务管理系统",
+    "navigationBarBackgroundColor": "#4169E1",
+    "backgroundColor": "#4169E1",
+    "backgroundTextStyle": "light",
+    "backgroundColorBottom": "white"
+  },
+  "tabBar": {
+    "color": "#4169E1",
+    "selectedColor": "#4169E1",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/main.png",
+        "selectedIconPath": "static/main-active.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/message/message",
+        "iconPath": "static/user.png",
+        "selectedIconPath": "static/user-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "申请微信小程序接口"
+    }
+  },
+  "usingComponents": {}
+}

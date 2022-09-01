@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\bin\Debug\net6.0\EMS.Domain.deps.json
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\bin\Debug\net6.0\EMS.Domain.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\bin\Debug\net6.0\EMS.Domain.pdb
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\EMS.Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\EMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\EMS.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\EMS.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\EMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\EMS.Domain.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\refint\EMS.Domain.dll
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\EMS.Domain.pdb
+C:\Users\LENOVO\Desktop\teaching-management-system\源码\backend\src\EMS.Domain\obj\Debug\net6.0\ref\EMS.Domain.dll

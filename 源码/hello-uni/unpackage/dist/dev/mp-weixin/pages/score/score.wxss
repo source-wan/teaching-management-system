@@ -1,0 +1,43 @@
+
+.screen {
+	text-align: center;
+	/* background-color: #4169E1; */
+	font-size: 45rpx;
+}
+.subject_score {
+	text-align: center;
+	padding-top: 25rpx;
+}
+.subject_head {
+	font-size: 20px;
+	color: #4169E1;
+}
+.sub_model {
+
+	/* 字体间距 */
+	letter-spacing: 5rpx;
+
+	color: azure;
+	text-align: left;
+	display: grid;
+	width: 180px;
+	height: 70px;
+	background-color: #89c3eb;
+	margin: auto;
+	margin-top: 10px;
+	grid-area: model;
+}
+.sub_name {
+	/* line-height: 25px; */
+	margin-left: 10px;
+	padding-top: 10px;
+}
+.score {
+	line-height: 1px;
+	margin-left: 10px;
+}
+.scores {
+	display: grid;
+	grid-template-areas: 'model model';
+}
+
